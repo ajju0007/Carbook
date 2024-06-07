@@ -1,0 +1,39 @@
+
+.head1 {
+
+    list-style: none;
+    direction: none;
+    display: flex;
+    justify-content: center;
+
+}
+
+ul {
+    list-style: none;
+    display: flex;margin-left: 300px;
+
+    
+}
+
+
+
+li {
+    padding: 10px;
+    
+ 
+}
+nav{
+    background-image: url(./Images/bg_1.jpg);
+    height: 630px;
+    width: 100%;
+    background-size: cover;
+    color: white;
+}
+.contant1 {
+ margin-top: 250px;
+    justify-content: center;
+    margin-left: 400px;
+}
+.contant1  h1{
+ /* height: 0px; */
+}
